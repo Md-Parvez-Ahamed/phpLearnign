@@ -1,2 +1,3 @@
 <?php
-$not_equal = $n1 !== $n2;
+$greater = $n1 > $n2;
+// var_dump($greater);
