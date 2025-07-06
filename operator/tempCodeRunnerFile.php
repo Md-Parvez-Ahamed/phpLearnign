@@ -1,3 +1,3 @@
 <?php
-$greater = $n1 > $n2;
-// var_dump($greater);
+$firstName = "Md Parvez";
+// $lastName = "Ahamed";
